@@ -31,7 +31,3 @@ This is an iOS application that allows you to spoof your location on an iPhone. 
 5. You can now use your iPhone as if you were physically at the spoofed location.
 
 Note: This app is intended for testing and development purposes only. Spoofing your location may impact the functionality of certain apps or services that rely on accurate location data.
-
-## Disclaimer
-
-Please note that spoofing your location may violate the terms of service of certain apps or services. Use this app responsibly and at your own risk. The developer is not responsible for any misuse or consequences arising from the use of this app.
